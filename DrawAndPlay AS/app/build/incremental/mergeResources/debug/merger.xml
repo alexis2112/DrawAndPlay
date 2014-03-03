@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res" >
+            <file
+                name="background"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\background.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="blocmobile"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\blocmobile.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="boutonyes"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\boutonyes.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="clapetsprite2"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\clapetsprite2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="degoulinures"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\degoulinures.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="dynamicbackground"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\dynamicbackground.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="effaceursprite"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\effaceursprite.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="escargotsprite"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\escargotsprite.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="finalsprite2"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\finalsprite2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="gameover"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\gameover.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="gameovermenu"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\gameovermenu.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="grossegouttesprite"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\grossegouttesprite.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="murvertical"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\murvertical.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="nobutton"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\nobutton.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="pics"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\pics.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="pieuvresprite"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\pieuvresprite.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="plateforme"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\plateforme.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="plateforme1"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\plateforme1.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="replay"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\replay.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sol"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\sol.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sol2"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\sol2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sortie"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\sortie.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="yeah"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-hdpi\yeah.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sprite"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-ldpi\sprite.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_activity2"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\layout\activity_activity2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_game_over"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\layout\activity_game_over.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity2"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\menu\activity2.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="game_over"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\menu\game_over.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="title_activity_game_over" >GameOverActivity
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >DrawAndPlay
+                </string>
+                <string name="title_activity_activity2" >Activity2
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\alexis\AndroidStudioProjects\DrawAndPlay AS\app\src\debug\res" />
+    </dataSet>
+
+</merger>
